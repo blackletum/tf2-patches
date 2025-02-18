@@ -10,7 +10,11 @@
 * [Community video benchmark 1](https://youtu.be/Jj4IjW0EQ6Q)
 * [Community video benchmark 2](https://youtu.be/VRMWTYv5Fmc)
 
-Come play with us! `connect tc2.mastercomfig.com`
+# UPDATE NOTE
+
+In light of TF2 being added to the Source SDK, Team Comtress 2 is being retired in favor of patches directly based on the Valve repo.
+
+Engine changes will still be available on this repo while we figure out a better way to submit them.
 
 # Welcome to Team Comtress 2!
 
