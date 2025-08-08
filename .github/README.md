@@ -1,3 +1,9 @@
+# UPDATE NOTE
+
+In light of TF2 being added to the Source SDK, [Team Comtress 2 is being revitalized as a Source Mod](https://github.com/mastercomfig/tc2), with patches sent directly to the Valve repo!
+
+Engine changes will still be available on this repo while we figure out a better way to submit them.
+
 <img src="https://user-images.githubusercontent.com/2672245/129457367-97e1df49-b44d-45f5-a46a-ce28839036bd.png" align="center">
 
 [![ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B.svg?logo=ko-fi&style=flat-square)](https://ko-fi.com/mastercoms)
@@ -9,12 +15,6 @@
 
 * [Community video benchmark 1](https://youtu.be/Jj4IjW0EQ6Q)
 * [Community video benchmark 2](https://youtu.be/VRMWTYv5Fmc)
-
-# UPDATE NOTE
-
-In light of TF2 being added to the Source SDK, Team Comtress 2 is being retired in favor of patches directly based on the Valve repo.
-
-Engine changes will still be available on this repo while we figure out a better way to submit them.
 
 # Welcome to Team Comtress 2!
 
